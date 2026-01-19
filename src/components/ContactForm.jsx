@@ -33,7 +33,7 @@ export default function ContactForm({ id }) {
 
     // ✅ NEW SCRIPT (SECOND RECEIVER)
     const SECOND_BACKEND_URL =
-      'https://script.google.com/macros/s/AKfycbzNzfD_N1-9J0u0rYK4DA1QVlHxxpE5xEcvjD1sRwrMknhjFY1cQEUkuZ__3kovr-Pf/exec';
+      'https://script.google.com/macros/s/AKfycbyYJMBwgwCDT_b5Aw8QTYDZniwWLHaERlwXewgaJdA5jIv6lwzsVn0l71rPSe6pWuQ7VQ/exec';
 
     try {
       // 🔹 First email
