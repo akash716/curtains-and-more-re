@@ -18,7 +18,7 @@ const FloatingContactIcons = () => {
   
         {/* Email */}
         <a
-          href="mailto:pooja@curtainsandmore.com"
+          href="mailto:pooja@curtainsandmore.co.uk"
           aria-label="Email Us"
           className="bg-white p-3 rounded-full shadow-lg hover:scale-110 transition-transform"
         >
